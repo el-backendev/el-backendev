@@ -1,6 +1,6 @@
 <div align="justify">
 
-# 👨‍💻 Aspiring Backend Developer | Building from the Ground Up 🚀
+# Aspiring Backend Developer | Building from the Ground Up 🚀
 
 I'm an aspiring backend developer passionate about creating scalable and efficient systems. My current focus is on mastering technologies that power the server-side of web applications. I work primarily with **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**, building APIs, handling data flow, and exploring best practices in backend architecture.
 
