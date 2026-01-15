@@ -14,7 +14,7 @@ I’m continuously improving my technical skills, with a strong focus not only o
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,vue,vite,git,npm,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,vue,nodejs,vite,git,postman,npm" />
 </p>
 
 ---
