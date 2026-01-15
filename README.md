@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Backend Developer | Node.js, APIs & System Design ⚙️
+# Backend Developer
 
 I’m a backend developer focused on **Node.js**, **Express**, and **MongoDB**, mainly working on the development of **RESTful APIs** and well-structured web applications.  
 I work with **JavaScript** and **TypeScript**, applying best practices in architecture, code organization, and version control from design to delivery.
