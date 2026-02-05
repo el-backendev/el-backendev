@@ -7,8 +7,6 @@ I work with **JavaScript** and **TypeScript**, applying best practices in archit
 
 For full stack projects and personal applications, I use **Vue.js** when needed, which allows me to maintain a broader view of the application flow and collaborate more effectively across layers.
 
-I’m continuously improving my technical skills, with a strong focus not only on implementation, but also on how to **design, structure, and scale systems**.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -17,21 +15,12 @@ I’m continuously improving my technical skills, with a strong focus not only o
   <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,vue,nodejs,vite,git,postman,npm" />
 </p>
 
----
+## 🛠️ Secondary Domain
 
-## 📚 Currently focused on
-
-- Building RESTful APIs with Node.js and Express  
-- Project structure and architectural patterns  
-- Error handling, validation, and authentication  
-- Version control best practices and deployment workflows  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres" />
+</p>
 
 ---
-
-## 🎯 Goals
-
-- Build backend projects with production-level standards  
-- Establish a consistent and solid technical portfolio  
-- Work professionally as a backend developer  
 
 </div>
