@@ -15,12 +15,4 @@ For full stack projects and personal applications, I use **Vue.js** when needed,
   <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,vue,nodejs,vite,git,postman,npm" />
 </p>
 
-## 🛠️ Secondary Domain
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres" />
-</p>
-
----
-
 </div>
