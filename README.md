@@ -11,13 +11,13 @@ Experienced with Node.js, Express, MongoDB, SQL databases, and frontend tools li
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,vue,nodejs,vite,git,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,vue,nodejs,vite,vitest,git,postman,npm" />
 </p>
 
 ## 📚 Also worked with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,c,python,java,react" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,c,python,java,php,react,figma,sublime,svg" />
 </p>
 
 </div>
